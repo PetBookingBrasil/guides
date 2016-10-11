@@ -1,3 +1,19 @@
+Guia de desenvolvimento do  Pet Booking.
+=========================================
+Essa é uma versão adaptada do guia [Thoughtbot](https://github.com/thoughtbot/guides)
+
+
+Principais mandamentos:
+------------------------
+1. Ao criar uma tela, se possível usarás o padrão do Rails ao invés de fazer no Angular.
+2. Ao atualizar uma tela em angular, se não consumir muito tempo, refatorarás para uma Rails.
+3. Ao testar, seguirás a stack padrão Rails: RSpec, FactoryGirl, ShouldaMatchers.
+4. Testarás uma feature nova e escreverás teste de uma feature já existente que você esteja atualizando.
+5. Extrairás as lógicas de negócio em objetos de serviço.
+6. Submeterás seu código através de um pull request para code review.
+7. Rodarás o rubocop e rails_best_pratices em seus arquivos novos para garantir que seu código esteja dentro das principais guides da comunidade.
+
+
 Guides
 ======
 
