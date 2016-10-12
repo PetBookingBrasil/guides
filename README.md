@@ -12,7 +12,7 @@ Principais mandamentos:
 5. Extrairás as lógicas de negócio em objetos de serviço.
 6. Submeterás seu código através de um pull request para code review.
 7. Rodarás o rubocop e rails_best_pratices em seus arquivos novos para garantir que seu código esteja dentro das principais guides da comunidade.
-8. Ao escrever os testes com rspec, veja se está usando boas práticas, um bom buia ( em pt-br) é o [Betterspecs](http://betterspecs.org/br/)
+8. Ao escrever os testes com rspec, veja se está usando boas práticas, um bom guia ( em pt-br) é o [Betterspecs](http://betterspecs.org/br/)
 
 
 Guides
