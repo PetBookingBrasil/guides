@@ -14,6 +14,7 @@ Principais mandamentos:
 7. Rodarás o rubocop e rails_best_pratices em seus arquivos novos para garantir que seu código esteja dentro das principais guides da comunidade.
 8. Ao escrever os testes com rspec, veja se está usando boas práticas, um bom guia ( em pt-br) é o [Betterspecs](http://betterspecs.org/br/)
 9. Removerás códigos que não são mais utilizados
+10. Manterás o Ruby e o Rails nas versões mais recentes
 
 
 Guides
